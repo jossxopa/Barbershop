@@ -1,5 +1,7 @@
 # 💈 Barbershop - Plataforma de Barbería
 
+Visita el demo: https://jossxopa.github.io/Barbershop/
+
 ![Estado del Proyecto](https://img.shields.io/badge/Estado-En%20Desarrollo-green)
 ![Licencia](https://img.shields.io/badge/Licencia-MIT-blue)
 
@@ -25,12 +27,4 @@ Este proyecto fue construido utilizando las siguientes herramientas:
 * **Iconos:** [FontAwesome](https://fontawesome.com/) o similar.
 * **Fuentes:** Google Fonts.
 
----
 
-## 📦 Instalación y Uso
-
-Si deseas ejecutar este proyecto localmente, sigue estos pasos:
-
-1. **Clona el repositorio:**
-   ```bash
-   git clone [https://github.com/jossxopa/Barbershop.git](https://github.com/jossxopa/Barbershop.git)
